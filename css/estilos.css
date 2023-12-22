@@ -77,4 +77,11 @@ footer, footer a{
 p{
     text-align: justify;
 }
-
+/* estilos especies.html */
+.container{
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    border: 0.5px rgb(161, 161, 161) solid;
+    padding: 1em;
+}
